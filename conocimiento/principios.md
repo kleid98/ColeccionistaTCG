@@ -1,24 +1,37 @@
-# Principios del coleccionista (v1, 2026-11-01)
+# Principios del inversor (v2, 2026-11-01)
 
-## 1. Precio de entrada
-- **El beneficio se hace al comprar.** Sellado moderno: objetivo ≤ PVP; se tolera hasta un +10 % si el producto ya está fuera de impresión.
-- Las semanas del lanzamiento son la peor entrada: preventa y hype. Ejemplo: Riftbound Radiance pasó de 238 $ en preventa (28-sep-2026) a unos 124 $ (26-oct-2026), con un PVP de 119,99 $.
-- Pokémon de 2026: Chaos Rising y Pitch Black llevan bajando desde julio (con caídas del 17-24 %) y siguen por encima de su PVP de 161,64 $. Paciencia.
+Perfil acordado con Ale en la sesión del 2026-11-01: 100 % inversión y presupuesto ilimitado.
+El foco es Riftbound, se buscan las mejores oportunidades de cualquier tamaño, con EV a 24 meses ≥ +20 %/año neto, y Ale decide.
+El método completo está en `CLAUDE.md`.
 
-## 2. Abrir o mantener
-- Abrir solo si EV neto / precio ≥ 1. El Pokémon moderno suele quedar en 0,5-0,6 (Perfect Order: 0,58; Temporal Forces: 0,59; Journey Together: 0,53, según pokemonpricetracker, 31-oct-2026). Así que se mantiene cerrado o se compra la single.
-- En Riftbound, la proximidad al PVP y la profundidad de cartas de más de 50 $ hacen que abrir sea más razonable (en Vendetta hay 32 cartas de más de 50 $).
+## 1. El EV manda
+- Solo se recomienda lo que supera **+20 %/año neto a 24 meses**, calculado por escenarios con probabilidades justificadas.
+- Siempre se muestra el **peor caso** y la **confianza**. Un EV alto con confianza baja se dice tal cual.
+- Las probabilidades se calibran con el registro de `predicciones.md`. Si las predicciones fallan en una dirección de forma sistemática, se corrigen.
 
-## 3. Riesgo de reimpresión
-- TPCi (Pokémon) reimprime de forma agresiva cuando hay escasez (Prismatic Evolutions, Paldean Fates en 2025, y la política de "maximizar la producción" de 2026). Hasta que un set no deja de imprimirse, su sellado no sube de verdad.
-- Las señales de fin de impresión son la rotación, la llegada de un set nuevo y que las tiendas dejen de recibir stock.
+## 2. Precio de entrada
+- **El beneficio se hace al comprar.** Las semanas del lanzamiento y las preventas suelen ser la peor entrada.
+  Ejemplo: Riftbound Radiance pasó de 238 $ en preventa (28-sep-2026) a unos 124 $ (26-oct). En Cardmarket, su trend es de 114,73 € (31-oct), con un PVP europeo de 127,99 €.
+- Lo que sigue imprimiéndose tiende a bajar entre 4 y 10 semanas después de salir.
+- Referencia de precio en Cardmarket: `trend`. `low` sirve para saber hasta dónde se puede negociar, pero no es un precio de mercado.
 
-## 4. Qué tiende a revalorizarse a largo plazo
-- Sets "especiales" o de aniversario, sets con Pokémon icónicos (Charizard, Eeveelutions, Pikachu, Umbreon) y Alt Arts fuertes.
-- Primeros sets de un juego nuevo: Riftbound Origins vale +87 % sobre su PVP al año de salir.
-- Japonés: es más barato al salir, tiene buena calidad, y algunos sets se revalorizan mucho; el inglés suele tener más liquidez en Occidente.
+## 3. Singles (80 % orientativo)
+- Gradeadas: preferibles en Pokémon (PSA 10 o CGC 10). La nota define el precio, así que hay que comparar ventas por nota.
+- Sin gradear: solo de vendedores con buena reputación y fotos claras del anverso y el reverso. Descontar un 5-10 % por riesgo de estado.
+- Riftbound: el mercado de gradeadas aún es pequeño, así que se aceptan sin gradear para Overnumbered, Signature, Ultimate y Alt Art.
+- Evitar las cartas con muy pocas ventas, donde el precio justo no es fiable, o rebajar mucho su confianza.
 
-## 5. Gestión
-- Diversificar por set y por juego; no concentrar más del 25 % en un solo producto.
-- Guardar el sellado en buenas condiciones (fundas protectoras, sin humedad ni sol).
-- Registrar el precio de compra de cada producto en un log (pendiente: crear `cartera.md` cuando Ale compre).
+## 4. Sellado (20 % orientativo)
+- Para guardar: comprar cerca del PVP o por debajo, con algún catalizador (que deje de imprimirse, chase fuertes, precedente).
+- El Pokémon moderno tiene un EV de apertura/precio de solo 0,5-0,6 (pokemonpricetracker, 31-oct-2026): su precio lo sostiene la demanda del sellado, y es muy sensible a las reimpresiones de TPCi.
+- Riftbound: el primer set (Origins) va un +87 % sobre su PVP al año. Spiritforged y Unleashed van un +20-27 % en 6-9 meses (en precios de EE. UU.).
+
+## 5. Idiomas y canales
+- Riftbound: solo inglés. Pokémon: inglés y japonés.
+- Canales: Cardmarket, tiendas españolas y europeas, y eBay (gradeadas; con aduanas e IVA del 21 % si es de fuera de la UE). Nada de Wallapop ni Vinted.
+
+## 6. Riesgos que vigilar siempre
+- Reimpresiones (TPCi es agresiva; Riot, todavía por ver).
+- Riftbound es un juego joven: el riesgo de que el juego no despegue se refleja en el escenario malo de todas sus oportunidades.
+- La banlist y el metajuego mueven las singles jugables. Las de coleccionista (Signature, Overnumbered) dependen más del crecimiento general del juego.
+- Concentración: aunque el presupuesto sea ilimitado, avisar si muchas oportunidades dependen del mismo factor de riesgo.

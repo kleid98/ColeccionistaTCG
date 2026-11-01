@@ -37,6 +37,19 @@ def cargar(juego, gid):
     return pg["createdAt"], precios, prods
 
 
+def nombres_expansion(prods):
+    """Deduce el nombre del set a partir del sellado ("Radiance Booster Box" -> idExpansion de Radiance)."""
+    m = {}
+    for p in sorted(prods.values(), key=lambda x: len(x["name"])):
+        if p["tipo"] != "nonsingles":
+            continue
+        for suf in (" Booster Box", " Booster Display", " Elite Trainer Box", " Booster Bundle", " Booster"):
+            if p["name"].endswith(suf) and "(" not in p["name"]:
+                m.setdefault(p["idExpansion"], p["name"][: -len(suf)])
+                break
+    return m
+
+
 def foto_previa(fecha, dias):
     """Devuelve {(juego,id): trend} del histórico más cercano a `dias` antes de `fecha` (±3 días)."""
     objetivo = fecha - dt.timedelta(days=dias)
@@ -55,10 +68,11 @@ def pct(nuevo, viejo):
 
 
 def main():
-    datos, fecha = {}, None
+    datos, expansiones, fecha = {}, {}, None
     for juego, gid in JUEGOS.items():
         creado, precios, prods = cargar(juego, gid)
         datos[juego] = (precios, prods)
+        expansiones[juego] = nombres_expansion(prods)
         fecha = dt.date.fromisoformat(creado[:10])
 
     # 1) Foto diaria (csv.gz): sellado relevante y singles con trend >= 5 € (Riftbound) o >= 50 € (Pokémon)
@@ -98,6 +112,18 @@ def main():
         L.append(f"| {s['nombre']} ({s['juego']}) | {lo or '-'} | {t or '-'} | {obj} | "
                  f"{pct(t, hace[1].get(k))} | {pct(t, hace[7].get(k))} | {pct(t, hace[30].get(k))} | {senal} |")
 
+    # 2a) Riftbound: las 40 singles de más valor, con su variación (sirven para buscar candidatos con EV)
+    precios, prods = datos["riftbound"]
+    top = sorted(((q["trend"], pid) for pid, q in precios.items()
+                  if prods.get(pid, {}).get("tipo") == "singles" and q.get("trend")), reverse=True)[:40]
+    L += ["", "## Riftbound: las 40 singles de más valor", "",
+          "| Carta | Set | idProduct | Low | Trend | Avg7 | Avg30 | Δ7d | Δ30d |", "|---|---|---|---|---|---|---|---|---|"]
+    for t, pid in top:
+        q, p, k = precios[pid], prods[pid], ("riftbound", pid)
+        L.append(f"| {p['name']} | {expansiones['riftbound'].get(p['idExpansion'], p['idExpansion'])} | {pid} | "
+                 f"{q.get('low') or '-'} | {t} | {q.get('avg7') or '-'} | {q.get('avg30') or '-'} | "
+                 f"{pct(t, hace[7].get(k))} | {pct(t, hace[30].get(k))} |")
+
     # 2) Singles: caídas y subidas sostenidas. Para filtrar cartas con pocas ventas y ventas atípicas se exige:
     #    trend, avg7, avg30 y low presentes y de 20 € o más, con trend y avg7 apuntando en la misma dirección.
     for juego, (precios, prods) in datos.items():
@@ -111,11 +137,11 @@ def main():
             if not (0.4 <= r <= 2.5) or not (0.5 <= r7 <= 2.0) or lo < 0.3 * t:
                 continue
             if (r < 0.85 and r7 < 0.95) or (r > 1.2 and r7 > 1.05):
-                cand.append((r, p["name"].replace("|", "/"), p["idExpansion"], t, a30, lo))
+                cand.append((r, p["name"].replace("|", "/"), expansiones[juego].get(p["idExpansion"], p["idExpansion"]), t, a30, lo))
         for titulo, lista in (("Caídas (posible oportunidad)", sorted(cand)[:12]),
                               ("Subidas (hype: no perseguir)", sorted(cand, reverse=True)[:12])):
             L += ["", f"## {juego.capitalize()}: singles. {titulo}", "",
-                  "| Carta | idExpansion | Trend | Avg30 | Trend/Avg30 | Low |", "|---|---|---|---|---|---|"]
+                  "| Carta | Set | Trend | Avg30 | Trend/Avg30 | Low |", "|---|---|---|---|---|---|"]
             lista = [x for x in lista if (x[0] < 1) == titulo.startswith("Caídas")]
             L += [f"| {n} | {e} | {t} | {a} | {r:.2f} | {lo} |" for r, n, e, t, a, lo in lista] or ["| (sin señales hoy) | | | | | |"]
 

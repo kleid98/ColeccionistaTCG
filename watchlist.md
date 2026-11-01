@@ -1,5 +1,7 @@
 # Watchlist
 
+> Precios EUR diarios y señales automáticas: ver `datos/cardmarket/ultimo.md`. Presupuesto ilimitado: no hay filtro por precio. Las oportunidades se ordenan por EV anual (mín. +20 %).
+
 Precios en USD de TCGplayer o el mercado de EE. UU. salvo que se indique otra cosa. Las referencias en EUR de Cardmarket están pendientes de confirmar.
 Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 
