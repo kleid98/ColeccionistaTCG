@@ -15,18 +15,25 @@ Para datos de EE. UU. se usan TCGplayer y PriceCharting, siempre convertidos y m
    (tasas de apertura, reimpresiones, gradeo PSA/CGC, ciclos de precio, calendario, rotación,
    mercado japonés, tiendas en España, etc.). Apuntarla en `conocimiento/aprendizajes.md`
    con fecha y fuente. Si cambia una regla, actualizar `principios.md`.
-3. **Mercado**: buscar noticias y precios de las últimas 24-72 h:
+3. **Datos de Cardmarket (siempre lo primero)**: ejecutar `python3 scripts/cardmarket.py`.
+   Descarga la guía de precios **oficial y pública** de Cardmarket (EUR, se regenera cada noche hacia las 02:45 CET),
+   guarda una foto en `datos/cardmarket/historico/AAAA-MM-DD.csv.gz` y genera `datos/cardmarket/ultimo.md`,
+   que incluye la tabla de seguimiento con su señal (🟢 en objetivo), los cambios a 1, 7 y 30 días y las singles que más caen o suben.
+   Es la **fuente principal de precios en EUR**. Para vigilar un producto nuevo, añadir su `idProduct`
+   (está en `.cache/cardmarket/productList_products_nonsingles_<6|22>.json`) a `datos/cardmarket/seguimiento.json`.
+   Si el informe pide un objetivo de precio distinto, actualizar también `objetivo_eur`.
+4. **Mercado**: buscar noticias y precios de las últimas 24-72 h:
    - Pokémon: displays/ETB/bundles en circulación y fuera de impresión, lanzamientos (inglés y japonés),
      anuncios de reimpresiones, cartas chase y su tendencia.
    - Riftbound: precios de displays por set, singles (Overnumbered, Signature, Ultimate, Alt Art),
      calendario (próximo: Legacy, 29-ene-2027), formatos y banlist, que mueven la demanda de singles.
-4. **Calcular o estimar el EV** de los productos candidatos (ver la fórmula abajo). Indicar siempre
+5. **Calcular o estimar el EV** de los productos candidatos (ver la fórmula abajo). Indicar siempre
    si el EV es publicado (y por quién) o una estimación propia.
-5. **Elegir oportunidades**: de 3 a 6 como máximo, cada una con precio actual, precio objetivo de compra,
+6. **Elegir oportunidades**: de 3 a 6 como máximo, cada una con precio actual, precio objetivo de compra,
    EV/precio, tesis, riesgo y horizonte. Si hoy no hay nada bueno, decirlo: "hoy no comprar" es una respuesta válida.
-6. **Actualizar `watchlist.md`**: precios actuales, alertas que han saltado (precio ≤ objetivo), altas y bajas.
-7. **Escribir `informes/AAAA-MM-DD.md`** con la plantilla de abajo.
-8. **Commit y push** a la rama `main` (`git push -u origin main`), con el mensaje `Informe diario AAAA-MM-DD`.
+7. **Actualizar `watchlist.md`**: precios actuales, alertas que han saltado (precio ≤ objetivo), altas y bajas.
+8. **Escribir `informes/AAAA-MM-DD.md`** con la plantilla de abajo.
+9. **Commit y push** a la rama `main` (`git push -u origin main`), con el mensaje `Informe diario AAAA-MM-DD`.
 
 ## EV: cómo se calcula aquí
 
@@ -64,7 +71,12 @@ Para datos de EE. UU. se usan TCGplayer y PriceCharting, siempre convertidos y m
   icv2.com, samuraiswordtokyo.com (mercado japonés), cardtrack.com, thepricedex.com (tasas de apertura).
 - Riftbound: riftwatch.gg (precios y contenido de sobres), riftcompare.com, nerdsnack.com, tcgcompare.com,
   pricecharting.com/game/riftbound-*, riftbound.gg.
-- Cardmarket devuelve 403 a las descargas automáticas: buscarlo vía WebSearch o anotar precios en EUR de tiendas españolas o europeas.
+- **Cardmarket**: la web bloquea los accesos automáticos (403), así que **no se intenta saltar ese bloqueo** (nada de suplantar un navegador ni de scraping).
+  Se usan solo los archivos oficiales de https://www.cardmarket.com/Data/Download, que trae `scripts/cardmarket.py`
+  (`downloads.s3.cardmarket.com/productCatalog/...`, juego 6 = Pokémon y 22 = Riftbound).
+  Limitaciones: el precio no distingue idioma ni estado; el sellado de Pokémon no trae avg7 ni avg30 (por eso guardamos histórico propio);
+  y `low` puede ser de vendedores poco fiables, así que la referencia es `trend`.
+  La API de Cardmarket está cerrada a nuevas solicitudes (2026); se volverá a evaluar cuando salga la API 3.0.
 - Desconfiar de blogs autogenerados (p. ej. "cardcenteringtool" con 10 posts contradictorios por mes).
 
 Esto no es asesoramiento financiero; es el diario de un coleccionista.

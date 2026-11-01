@@ -1,0 +1,27 @@
+{
+  "_nota": "Productos vigilados en Cardmarket. idProduct sale de products_nonsingles_<juego>.json. objetivo_eur = precio de compra deseado (trend).",
+  "productos": [
+    {"juego": "riftbound", "idProduct": 897515, "nombre": "Radiance Booster Box", "objetivo_eur": 120},
+    {"juego": "riftbound", "idProduct": 897516, "nombre": "Radiance Case (6x Booster Box)", "objetivo_eur": 720},
+    {"juego": "riftbound", "idProduct": 888358, "nombre": "Vendetta Booster Box", "objetivo_eur": 130},
+    {"juego": "riftbound", "idProduct": 888359, "nombre": "Vendetta Case (6x Booster Box)", "objetivo_eur": 780},
+    {"juego": "riftbound", "idProduct": 872923, "nombre": "Unleashed Booster Box", "objetivo_eur": 135},
+    {"juego": "riftbound", "idProduct": 860997, "nombre": "Spiritforged Booster Box", "objetivo_eur": 140},
+    {"juego": "riftbound", "idProduct": 845721, "nombre": "Origins Booster Box", "objetivo_eur": 190},
+    {"juego": "riftbound", "idProduct": 917595, "nombre": "Legacy Booster Box", "objetivo_eur": 128},
+    {"juego": "pokemon", "idProduct": 865408, "nombre": "Perfect Order Booster Box", "objetivo_eur": 150},
+    {"juego": "pokemon", "idProduct": 877295, "nombre": "Chaos Rising Booster Box", "objetivo_eur": 165},
+    {"juego": "pokemon", "idProduct": 885545, "nombre": "Pitch Black Booster Box", "objetivo_eur": 160},
+    {"juego": "pokemon", "idProduct": 895561, "nombre": "30th Celebration Booster Bundle", "objetivo_eur": 35},
+    {"juego": "pokemon", "idProduct": 895551, "nombre": "30th Celebration Elite Trainer Box", "objetivo_eur": 70},
+    {"juego": "pokemon", "idProduct": 891464, "nombre": "30th Celebration JP Booster Box", "objetivo_eur": 110},
+    {"juego": "pokemon", "idProduct": 750403, "nombre": "Temporal Forces Booster Box", "objetivo_eur": 250},
+    {"juego": "pokemon", "idProduct": 805579, "nombre": "Journey Together Booster Box", "objetivo_eur": 165},
+    {"juego": "pokemon", "idProduct": 818574, "nombre": "Destined Rivals Booster Box", "objetivo_eur": 220},
+    {"juego": "pokemon", "idProduct": 877294, "nombre": "Chaos Rising Elite Trainer Box", "objetivo_eur": 55},
+    {"juego": "pokemon", "idProduct": 865406, "nombre": "Perfect Order Elite Trainer Box", "objetivo_eur": 55},
+    {"juego": "pokemon", "idProduct": 885542, "nombre": "Pitch Black Elite Trainer Box", "objetivo_eur": 55},
+    {"juego": "pokemon", "idProduct": 860574, "nombre": "Ascended Heroes Elite Trainer Box", "objetivo_eur": 75},
+    {"juego": "pokemon", "idProduct": 798930, "nombre": "Prismatic Evolutions Elite Trainer Box", "objetivo_eur": 90}
+  ]
+}
