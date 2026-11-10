@@ -11,3 +11,9 @@
 - La API de Cardmarket no acepta solicitudes nuevas (help.cardmarket.com). La web devuelve 403 a los bots, y no se debe intentar saltar ese bloqueo.
 - **Primeros datos en EUR (31-oct)**: la display de Riftbound Radiance tiene un trend de 114,73 €, **por debajo del PVP europeo de 127,99 €**, y la caja de 6 displays sale a unos 123 € por display. Vendetta: 127,25 €. Origins: 176,89 €, frente a unos 226 $ en EE. UU. En general, **Cardmarket está un 10-25 % por debajo de TCGplayer** en Riftbound.
 - En Pokémon, las ETB de Chaos Rising (61,81 €), Perfect Order (60,66 €) y Pitch Black (68,33 €) están cerca del PVP europeo. Las displays de Perfect Order y Chaos Rising siguen por encima (175-185 €).
+
+## 2026-11-10
+- **Europa revaloriza menos el sellado de Riftbound que EE. UU.**: en Cardmarket (09-nov) Origins está +43 % sobre el PVP europeo (13 meses), Spiritforged +6 % (8 meses), Unleashed +2 % y Vendetta -12 %. Calibra a la baja el escenario "muy bueno". Fuente: guía de precios de Cardmarket.
+- **Calendario Riot 2027**: Legacy 29-ene, Proving Grounds 2ª ed. 19-feb (40 $, solo cartas ya disponibles en sobres), The Reckoning 30-abr, sets 8 (T3) y 9 (T4). Un set cada ~3 meses presiona el sellado reciente. Fuente: playriftbound.com, "Products and Sets into 2027".
+- **Pokémon Japón**: aviso oficial del 06-nov: sobres de 200 yen pasan a 230 yen desde mayo de 2027. Fuente: samuraiswordtokyo.com.
+- **Cardmarket**: el `low` puede ser mucho menor que `trend` (Radiance 91 vs 105 €) y los trends de singles caras son ruidosos (Akali Overnumbered: trend 2.299, avg7 460). Para singles de más de 500 € no se fía del trend sin avg7 coherente.

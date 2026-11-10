@@ -28,3 +28,12 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Baron Nashor (Ultimate) | Unleashed | ~1.869 $ | Sale en menos del 0,1 % de los sobres |
 | Riven, The Exile (Overnumbered) | Radiance | ~268 $ | Set recién salido: es probable que baje más |
 | Packed Amphitheater (Ultimate) | Radiance | ~550 $ | Ídem |
+
+## Actualización 2026-11-10 (Cardmarket, EUR, trend)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Radiance Display (id 897515) | 105,39 € (low 91) | +11 % (+19 % a ≤97 € entregada) | 🟡 casi | Comprar solo a ≤97-100 €; sigue cayendo (-8 % 7d) |
+| Vendetta Display (id 888358) | 112,62 € (low 90) | +9 % | 🟡 | Entrar si baja a ≤100 € |
+| Kai'Sa Overnumbered Origins (id 847500) | 1.100 € (low 800) | +14 % a 810 € | 🟡 | Muy pocas ventas; baja confianza |
+| Unleashed / Spiritforged / Origins displays | 131 / 136 / 183 € | +5 % / +3,5 % / +2 % | 🔴 | Sin margen |
+| Legacy Display (id 917595) | 147,37 € | -4 % | 🔴 | Preventa con sobreprecio; esperar a post-lanzamiento |
