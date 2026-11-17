@@ -37,3 +37,14 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Kai'Sa Overnumbered Origins (id 847500) | 1.100 € (low 800) | +14 % a 810 € | 🟡 | Muy pocas ventas; baja confianza |
 | Unleashed / Spiritforged / Origins displays | 131 / 136 / 183 € | +5 % / +3,5 % / +2 % | 🔴 | Sin margen |
 | Legacy Display (id 917595) | 147,37 € | -4 % | 🔴 | Preventa con sobreprecio; esperar a post-lanzamiento |
+
+## Actualización 2026-11-17 (Cardmarket, EUR, trend)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Radiance Case (id 897516) | 617,27 € (102,9 € por display) | +11,3 % | 🟡 casi | Objetivo: ≤500 € de trend |
+| Radiance Display (id 897515) | 99,29 € (low 93,99) | +10,1 % (+20 % a ≤88 € entregada) | 🟡 casi | Objetivo: ≤82 € de trend; en EE. UU. -18 % en 30 días, aún sin suelo |
+| Vendetta Display (id 888358) | 124,23 € (+10 % en 7 días) | -1,9 % | 🔴 | En EE. UU. está más barata (120 $) |
+| Kai'Sa Overnumbered Origins (id 847500) | 1.100 € (low 799) | +6 % a 810 € | 🔴 | Recalculada con descuento por estado; sale de "Casi" |
+| Kennen, Heart of the Tempest (Vendetta, id 898149) | 224,99 € | -11 % | 🔴 | Ganó el RC de Europa, pero con riesgo de ban |
+| Singles baneadas el 23-nov (Dazzling Aurora, Baited Hook, Riven…) | — | — | 🔴 evitar | |
+| Legacy Display (id 917595) | 147,37 € | -8 % | 🔴 | En EE. UU., la case cae un 26 % en 7 días; esperar |

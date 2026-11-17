@@ -1,8 +1,8 @@
 {
   "_nota": "Productos vigilados en Cardmarket. idProduct sale de products_nonsingles_<juego>.json. objetivo_eur = precio de compra deseado (trend).",
   "productos": [
-    {"juego": "riftbound", "idProduct": 897515, "nombre": "Radiance Booster Box", "objetivo_eur": 120},
-    {"juego": "riftbound", "idProduct": 897516, "nombre": "Radiance Case (6x Booster Box)", "objetivo_eur": 720},
+    {"juego": "riftbound", "idProduct": 897515, "nombre": "Radiance Booster Box", "objetivo_eur": 82},
+    {"juego": "riftbound", "idProduct": 897516, "nombre": "Radiance Case (6x Booster Box)", "objetivo_eur": 500},
     {"juego": "riftbound", "idProduct": 888358, "nombre": "Vendetta Booster Box", "objetivo_eur": 130},
     {"juego": "riftbound", "idProduct": 888359, "nombre": "Vendetta Case (6x Booster Box)", "objetivo_eur": 780},
     {"juego": "riftbound", "idProduct": 872923, "nombre": "Unleashed Booster Box", "objetivo_eur": 135},

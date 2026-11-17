@@ -17,3 +17,8 @@
 - **Calendario Riot 2027**: Legacy 29-ene, Proving Grounds 2ª ed. 19-feb (40 $, solo cartas ya disponibles en sobres), The Reckoning 30-abr, sets 8 (T3) y 9 (T4). Un set cada ~3 meses presiona el sellado reciente. Fuente: playriftbound.com, "Products and Sets into 2027".
 - **Pokémon Japón**: aviso oficial del 06-nov: sobres de 200 yen pasan a 230 yen desde mayo de 2027. Fuente: samuraiswordtokyo.com.
 - **Cardmarket**: el `low` puede ser mucho menor que `trend` (Radiance 91 vs 105 €) y los trends de singles caras son ruidosos (Akali Overnumbered: trend 2.299, avg7 460). Para singles de más de 500 € no se fía del trend sin avg7 coherente.
+
+## 2026-11-17
+- **Riot reimprime a propósito sus sets tempranos**: seguirá imprimiendo Origins "hasta que el mercado tenga cantidades sanas", y esas reimpresiones "no serán las últimas". Aun así, Origins va +43 % sobre el PVP europeo. Para el sellado reciente, el escenario malo (reimpresión) sube del 30 % al 35 %. Fuente: playriftbound.com, "Flash Promos & Origins Reprint Updates", y el anuncio de enero de 2026 (cardsrealm).
+- **Bans frecuentes y en bloque**: 3 cartas en septiembre, y 8 cartas más 2 campos de batalla el 23-nov (Riven, Broken Blade, con un 43 % del metajuego en el RC de Stuttgart), alguno preventivo (Baited Hook). Desde el 23-nov la banlist va por circuito. Las singles jugables necesitan un 30-40 % de escenario malo. Fuente: playriftbound.com, "Radiance Ban List Updates (Effective November 23, 2026)".
+- **El sellado de Riftbound está ya más barato en EE. UU. que en Europa** (Radiance 97,51 $ y Vendetta 120 $ frente a 99 € y 124 € en Cardmarket), al revés que el 01-nov. Señal de que en Europa aún puede bajar más. Fuente: tcgindex.io (USA, fuente secundaria).
