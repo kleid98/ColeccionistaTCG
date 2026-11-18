@@ -48,3 +48,14 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Kennen, Heart of the Tempest (Vendetta, id 898149) | 224,99 € | -11 % | 🔴 | Ganó el RC de Europa, pero con riesgo de ban |
 | Singles baneadas el 23-nov (Dazzling Aurora, Baited Hook, Riven…) | — | — | 🔴 evitar | |
 | Legacy Display (id 917595) | 147,37 € | -8 % | 🔴 | En EE. UU., la case cae un 26 % en 7 días; esperar |
+
+## Actualización 2026-11-18 (Cardmarket, EUR, trend; guía del 17-nov, no se regeneró)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Delta Reign Booster Bundle (id 903945) | 34,87 € (-15 % 7d) | +11,1 % | 🟡 casi | Alta nueva. Objetivo: ≤29 € de trend |
+| Delta Reign ETB (id 903955) | 68,44 € (-15 % 7d) | +10,3 % (+22 % a 60 € entregada) | 🟡 casi | Alta nueva. Objetivo: ≤55 € de trend; aún cayendo tras salir el 06-nov |
+| Delta Reign Booster Box (id 903956) | 176,86 € (-10 % 7d) | +3,8 % | 🔴 | Objetivo: ≤150 € |
+| Surging Sparks Booster Box (id 784949) | 222,61 € (-10 % 7d) | +6,2 % | 🔴 | Fuera de impresión (SV); objetivo: ≤190 € |
+| Phantasmal Flames Booster Box (id 846746) | 295,63 € | -3,1 % | 🔴 | Ya se ha doblado; no perseguir |
+| Akali, Rogue Assassin (Vendetta, id 898141) | 312 € | -5 % | 🔴 | Jugable y con riesgo de ban |
+| Radiance Case / Display | 617,27 € / 99,29 € | +11,3 % / +10,1 % | 🟡 casi | Sin cambios (misma guía); en EE. UU. la display a 99 $ (-15 % 30d) |

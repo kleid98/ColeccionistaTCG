@@ -22,6 +22,10 @@
     {"juego": "pokemon", "idProduct": 865406, "nombre": "Perfect Order Elite Trainer Box", "objetivo_eur": 55},
     {"juego": "pokemon", "idProduct": 885542, "nombre": "Pitch Black Elite Trainer Box", "objetivo_eur": 55},
     {"juego": "pokemon", "idProduct": 860574, "nombre": "Ascended Heroes Elite Trainer Box", "objetivo_eur": 75},
-    {"juego": "pokemon", "idProduct": 798930, "nombre": "Prismatic Evolutions Elite Trainer Box", "objetivo_eur": 90}
+    {"juego": "pokemon", "idProduct": 798930, "nombre": "Prismatic Evolutions Elite Trainer Box", "objetivo_eur": 90},
+    {"juego": "pokemon", "idProduct": 903956, "nombre": "Delta Reign Booster Box", "objetivo_eur": 150},
+    {"juego": "pokemon", "idProduct": 903955, "nombre": "Delta Reign Elite Trainer Box", "objetivo_eur": 55},
+    {"juego": "pokemon", "idProduct": 903945, "nombre": "Delta Reign Booster Bundle", "objetivo_eur": 29},
+    {"juego": "pokemon", "idProduct": 784949, "nombre": "Surging Sparks Booster Box", "objetivo_eur": 190}
   ]
 }

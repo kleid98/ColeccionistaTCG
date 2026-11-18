@@ -6,8 +6,8 @@ Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el p
 
 | Producto | Low | Trend | Objetivo | Δ1d | Δ7d | Δ30d | Señal |
 |---|---|---|---|---|---|---|---|
-| Radiance Booster Box (riftbound) | 93.99 | 99.29 | 120 |  | -6% |  | 🟢 en objetivo |
-| Radiance Case (6x Booster Box) (riftbound) | 580 | 617.27 | 720 |  | -8% |  | 🟢 en objetivo |
+| Radiance Booster Box (riftbound) | 93.99 | 99.29 | 82 |  | -6% |  | 🔴 |
+| Radiance Case (6x Booster Box) (riftbound) | 580 | 617.27 | 500 |  | -8% |  | 🔴 |
 | Vendetta Booster Box (riftbound) | 92 | 124.23 | 130 |  | +10% |  | 🟢 en objetivo |
 | Vendetta Case (6x Booster Box) (riftbound) | 600 | 783.69 | 780 |  | -2% |  | 🟡 a ≤10% |
 | Unleashed Booster Box (riftbound) | 92 | 135.03 | 135 |  | +3% |  | 🟡 a ≤10% |
@@ -28,6 +28,10 @@ Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el p
 | Pitch Black Elite Trainer Box (pokemon) | 44.9 | 66.59 | 55 |  | -3% |  | 🔴 |
 | Ascended Heroes Elite Trainer Box (pokemon) | 69.5 | 129.37 | 75 |  | +3% |  | 🔴 |
 | Prismatic Evolutions Elite Trainer Box (pokemon) | 84 | 143.04 | 90 |  | -4% |  | 🔴 |
+| Delta Reign Booster Box (pokemon) | 150 | 176.86 | 150 |  | -10% |  | 🔴 |
+| Delta Reign Elite Trainer Box (pokemon) | 53 | 68.44 | 55 |  | -15% |  | 🔴 |
+| Delta Reign Booster Bundle (pokemon) | 27.99 | 34.87 | 29 |  | -15% |  | 🔴 |
+| Surging Sparks Booster Box (pokemon) | 144.95 | 222.61 | 190 |  | -10% |  | 🔴 |
 
 ## Riftbound: las 40 singles de más valor
 
