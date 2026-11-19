@@ -1,4 +1,4 @@
-# Cardmarket: guía de precios del 2026-11-17
+# Cardmarket: guía de precios del 2026-11-19
 
 Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el precio de referencia; `low` puede ser engañoso (otros idiomas, mal estado o vendedores con poca reputación).
 
@@ -6,32 +6,35 @@ Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el p
 
 | Producto | Low | Trend | Objetivo | Δ1d | Δ7d | Δ30d | Señal |
 |---|---|---|---|---|---|---|---|
-| Radiance Booster Box (riftbound) | 93.99 | 99.29 | 82 |  | -6% |  | 🔴 |
-| Radiance Case (6x Booster Box) (riftbound) | 580 | 617.27 | 500 |  | -8% |  | 🔴 |
-| Vendetta Booster Box (riftbound) | 92 | 124.23 | 130 |  | +10% |  | 🟢 en objetivo |
-| Vendetta Case (6x Booster Box) (riftbound) | 600 | 783.69 | 780 |  | -2% |  | 🟡 a ≤10% |
-| Unleashed Booster Box (riftbound) | 92 | 135.03 | 135 |  | +3% |  | 🟡 a ≤10% |
-| Spiritforged Booster Box (riftbound) | 94.07 | 133.12 | 140 |  | -2% |  | 🟢 en objetivo |
-| Origins Booster Box (riftbound) | 64.97 | 182.06 | 190 |  | -1% |  | 🟢 en objetivo |
-| Legacy Booster Box (riftbound) | 119.5 | 147.37 | 128 |  | +0% |  | 🔴 |
-| Perfect Order Booster Box (pokemon) | 125 | 176.55 | 150 |  | +0% |  | 🔴 |
-| Chaos Rising Booster Box (pokemon) | 125 | 179.31 | 165 |  | +0% |  | 🟡 a ≤10% |
-| Pitch Black Booster Box (pokemon) | 105 | 173.59 | 160 |  | +0% |  | 🟡 a ≤10% |
-| 30th Celebration Booster Bundle (pokemon) | 46.44 | 64.44 | 35 |  | +3% |  | 🔴 |
-| 30th Celebration Elite Trainer Box (pokemon) | 90 | 117.62 | 70 |  | -2% |  | 🔴 |
-| 30th Celebration JP Booster Box (pokemon) | 79.99 | 123.14 | 110 |  | -15% |  | 🔴 |
-| Temporal Forces Booster Box (pokemon) | 150 | 235 | 250 |  | +0% |  | 🟢 en objetivo |
-| Journey Together Booster Box (pokemon) | 133.98 | 186.53 | 165 |  | +1% |  | 🔴 |
-| Destined Rivals Booster Box (pokemon) | 175 | 284.76 | 220 |  | -3% |  | 🔴 |
-| Chaos Rising Elite Trainer Box (pokemon) | 40 | 62.95 | 55 |  | +1% |  | 🔴 |
-| Perfect Order Elite Trainer Box (pokemon) | 36.99 | 65.23 | 55 |  | +4% |  | 🔴 |
-| Pitch Black Elite Trainer Box (pokemon) | 44.9 | 66.59 | 55 |  | -3% |  | 🔴 |
-| Ascended Heroes Elite Trainer Box (pokemon) | 69.5 | 129.37 | 75 |  | +3% |  | 🔴 |
-| Prismatic Evolutions Elite Trainer Box (pokemon) | 84 | 143.04 | 90 |  | -4% |  | 🔴 |
-| Delta Reign Booster Box (pokemon) | 150 | 176.86 | 150 |  | -10% |  | 🔴 |
-| Delta Reign Elite Trainer Box (pokemon) | 53 | 68.44 | 55 |  | -15% |  | 🔴 |
-| Delta Reign Booster Bundle (pokemon) | 27.99 | 34.87 | 29 |  | -15% |  | 🔴 |
-| Surging Sparks Booster Box (pokemon) | 144.95 | 222.61 | 190 |  | -10% |  | 🔴 |
+| Radiance Booster Box (riftbound) | 93.99 | 98.27 | 82 | -1% | -7% |  | 🔴 |
+| Radiance Case (6x Booster Box) (riftbound) | 580 | 590.96 | 500 | -4% | -12% |  | 🔴 |
+| Vendetta Booster Box (riftbound) | 92 | 127.01 | 130 | +2% | +13% |  | 🟢 en objetivo |
+| Vendetta Case (6x Booster Box) (riftbound) | 600 | 744.4 | 780 | -5% | -7% |  | 🟢 en objetivo |
+| Unleashed Booster Box (riftbound) | 92 | 137.93 | 135 | +2% | +5% |  | 🟡 a ≤10% |
+| Spiritforged Booster Box (riftbound) | 94.07 | 133.64 | 140 | +0% | -2% |  | 🟢 en objetivo |
+| Origins Booster Box (riftbound) | 64.97 | 177.93 | 190 | -2% | -3% |  | 🟢 en objetivo |
+| Legacy Booster Box (riftbound) | 119.5 | 142.98 | 128 | -3% | -3% |  | 🔴 |
+| Perfect Order Booster Box (pokemon) | 125 | 175.64 | 150 | -1% | -0% |  | 🔴 |
+| Chaos Rising Booster Box (pokemon) | 125 | 177.52 | 165 | -1% | -1% |  | 🟡 a ≤10% |
+| Pitch Black Booster Box (pokemon) | 105 | 172.1 | 160 | -1% | -1% |  | 🟡 a ≤10% |
+| 30th Celebration Booster Bundle (pokemon) | 46.44 | 64 | 35 | -1% | +2% |  | 🔴 |
+| 30th Celebration Elite Trainer Box (pokemon) | 90 | 117.05 | 70 | -0% | -2% |  | 🔴 |
+| 30th Celebration JP Booster Box (pokemon) | 79.99 | 114.04 | 110 | -7% | -22% |  | 🟡 a ≤10% |
+| Temporal Forces Booster Box (pokemon) | 155 | 232.51 | 250 | -1% | -1% |  | 🟢 en objetivo |
+| Journey Together Booster Box (pokemon) | 133.98 | 186.77 | 165 | +0% | +1% |  | 🔴 |
+| Destined Rivals Booster Box (pokemon) | 175 | 286.07 | 220 | +0% | -2% |  | 🔴 |
+| Chaos Rising Elite Trainer Box (pokemon) | 40 | 62.47 | 55 | -1% | +1% |  | 🔴 |
+| Perfect Order Elite Trainer Box (pokemon) | 36.99 | 64.92 | 55 | -0% | +3% |  | 🔴 |
+| Pitch Black Elite Trainer Box (pokemon) | 44.9 | 66.47 | 55 | -0% | -3% |  | 🔴 |
+| Ascended Heroes Elite Trainer Box (pokemon) | 69.5 | 126.37 | 75 | -2% | +1% |  | 🔴 |
+| Prismatic Evolutions Elite Trainer Box (pokemon) | 85 | 141.47 | 90 | -1% | -5% |  | 🔴 |
+| Delta Reign Booster Box (pokemon) | 150 | 172.86 | 150 | -2% | -12% |  | 🔴 |
+| Delta Reign Elite Trainer Box (pokemon) | 53 | 67.49 | 55 | -1% | -17% |  | 🔴 |
+| Delta Reign Booster Bundle (pokemon) | 27.99 | 34.4 | 29 | -1% | -16% |  | 🔴 |
+| Surging Sparks Booster Box (pokemon) | 144.95 | 230.74 | 190 | +4% | -6% |  | 🔴 |
+| Worlds Bundle 2026 (riftbound) | 129 | 133.99 | 100 |  |  |  | 🔴 |
+| K/DA Couture Collection Box (riftbound) | 201 | 204.55 | 160 | -13% | -55% |  | 🔴 |
+| Worlds Bundle 2025 (riftbound) | 320 | 581.44 | 450 | -6% | -4% |  | 🔴 |
 
 ## Riftbound: las 40 singles de más valor
 
@@ -60,8 +63,8 @@ Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el p
 | Kayle, Justified | Vendetta | 898174 | 115 | 202.19 | 207.79 | 207.79 | +0% |  |
 | Jayce, Defender of Tomorrow | Vendetta | 898146 | 133 | 198.99 | 198.99 | 198.99 | +0% |  |
 | Diana, Scorn of the Moon | Unleashed | 884229 | 99.99 | 198.76 | 145 | 145 | +0% |  |
-| Yasuo, Remorseful | Replacement Card | 900504 | 175 | 198.12 | 203.66 | 293.62 | +0% |  |
 | Mel, Soul's Reflection | Vendetta | 898147 | 69 | 193.03 | 195.66 | 195.66 | +0% |  |
+| Yasuo, Remorseful | Replacement Card | 900504 | 175 | 178.96 | 205.5 | 289.36 | -10% |  |
 | Lonely Poro | Unleashed | 884213 | 86.99 | 149.95 | 125.3 | 125.3 | +0% |  |
 | Jinx, Demolitionist | Vendetta | 898122 | 75 | 148.99 | 137 | 137 | +0% |  |
 | Vayne, Hunter | Spiritforged | 866970 | 70 | 148.99 | 104.5 | 104.5 | +0% |  |
@@ -82,41 +85,41 @@ Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el p
 
 | Carta | Set | Trend | Avg30 | Trend/Avg30 | Low |
 |---|---|---|---|---|---|
-| Charizard GX [Wing Attack / Crimson Storm / Raging Out GX] | CSM2.1C: Golden Energy | 60.08 | 149.67 | 0.40 | 110 |
 | Machoke [Wicked Jab / Focus Blast] | 3781 | 41.74 | 101.57 | 0.41 | 34.5 |
 | Zoroark [Nasty Plot / Foul Play] | Next Destinies | 28.52 | 68.9 | 0.41 | 24.9 |
-| Charizard ex [Infernal Reign / Burning Darkness] | Ruler of the Black Flame | 29.56 | 70.73 | 0.42 | 34 |
 | Lisia's Appeal | CSV9C: Stellar Crystal | 84.7 | 201.92 | 0.42 | 97.5 |
-| Wailord ex [Super Deep Dive / Dwindling Wave] | Miracle of the Desert | 20.4 | 47.89 | 0.43 | 9.99 |
-| Garchomp & Giratina GX [Linear Attack / Calamitous Slash / GG End GX] | Unified Minds | 22.07 | 51.55 | 0.43 | 8 |
-| Mewtwo & Mew GX [Perfection / Miraculous Duo GX] | Unified Minds | 51.55 | 120.19 | 0.43 | 19.89 |
+| Wailord ex [Super Deep Dive / Dwindling Wave] | Miracle of the Desert | 20.4 | 47.89 | 0.43 | 120 |
 | Mallow | Alolan Moonlight | 143.26 | 324.03 | 0.44 | 200 |
 | Klara | Matchless Fighters | 25.18 | 56.78 | 0.44 | 20 |
-| Eevee [Boosted Evolution / Reckless Charge] | 5241 | 58.74 | 128.81 | 0.46 | 85 |
+| Shaymin EX [Synthesis / Revenge Blast] | Legendary Treasures | 33.28 | 74.97 | 0.44 | 18 |
+| Salamence ex δ Delta Species [Type Shift / Claw Swipe / Dual Stream] | EX Dragon Frontiers | 46.88 | 103.61 | 0.45 | 15 |
 | Ho-Oh [Flames of Revival / Bright Wing] | 6518 | 43.22 | 94.4 | 0.46 | 58.99 |
+| Salamence δ Delta Species [Fire Dance / Delta Blast] | Holon Research Tower | 20.46 | 44.36 | 0.46 | 14.99 |
+| Hoopa [Appearance Rush] | McDonald's 2014 Promo | 73.08 | 157.79 | 0.46 | 35 |
+| Pikachu ex [Pika-Pika Parade / Thunderbolt] | 6232 | 22.9 | 49.03 | 0.47 | 33 |
 
 ## Pokemon: singles. Subidas (hype: no perseguir)
 
 | Carta | Set | Trend | Avg30 | Trend/Avg30 | Low |
 |---|---|---|---|---|---|
 | Pokémon Ranger | Fever-Burst Fighter | 85.63 | 34.64 | 2.47 | 70 |
-| Snorlax [Layabout / Clomp Clomp Clobber] | Call of Legends | 756.74 | 308.92 | 2.45 | 365 |
 | MSharpedo EX [Torpedo Dive] | The Best of XY | 70.31 | 28.99 | 2.43 | 29.99 |
 | Leafeon VMAX [Grass Knot / Max Leaf] | Play! Pokémon Prize Pack Series One | 106.95 | 44.29 | 2.41 | 38 |
 | Pikachu [Nuzzle / Quick Attack] | 4089 | 109.88 | 45.52 | 2.41 | 99 |
 | Greninja & Zoroark GX [Dark Pulse / Dark Union GX] | Night Unison | 327.38 | 136.16 | 2.40 | 114.99 |
-| _____'s Pikachu [Birthday Surprise] | 4170 | 2059.91 | 869.17 | 2.37 | 3000 |
 | Umbreon VMAX [Dark Signal / Max Darkness] | Play! Pokémon Prize Pack Series One | 352.79 | 150.25 | 2.35 | 150 |
 | Mew VMAX [Cross Fusion Strike / Max Miracle] | Family Mart Promo Card | 56.41 | 24.1 | 2.34 | 30 |
 | Umbreon V [Mean Look / Moonlight Blade] | Play! Pokémon Prize Pack Series One | 145.4 | 62.41 | 2.33 | 65 |
 | Charizard V [Claw Slash / Fire Spin] | Play! Pokémon Prize Pack Series One | 263.05 | 112.93 | 2.33 | 549.98 |
 | Cynthia | GX Ultra Shiny | 274.17 | 118.3 | 2.32 | 125 |
+| Detective Pikachu [Scout / Surprise Attack] | 5 Pack GET! Campaign | 73.53 | 32.38 | 2.27 | 48.99 |
+| Gentleman Pikachu [New Open / Pika Stick] | 5 Pack GET! Campaign | 625.59 | 275.64 | 2.27 | 249.9 |
 
 ## Riftbound: singles. Caídas (posible oportunidad)
 
 | Carta | Set | Trend | Avg30 | Trend/Avg30 | Low |
 |---|---|---|---|---|---|
-| Yasuo, Remorseful | Replacement Card | 198.12 | 293.62 | 0.67 | 175 |
+| Yasuo, Remorseful | Replacement Card | 178.96 | 289.36 | 0.62 | 175 |
 
 ## Riftbound: singles. Subidas (hype: no perseguir)
 
@@ -130,19 +133,19 @@ Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el p
 
 | Producto | Hace 7 días | Hoy | Δ |
 |---|---|---|---|
-| K/DA Couture Collection Box (riftbound) | 453.61 | 236.44 | -48% |
-| Super Electric Breaker Booster Box (pokemon) | 67.57 | 48.41 | -28% |
+| K/DA Couture Collection Box (riftbound) | 453.61 | 204.55 | -55% |
+| Riftbound x T1 2025 Worlds Champion Signature Edition (riftbound) | 2691.42 | 1787.95 | -34% |
+| 30th Celebration: Mewtwo Figure Collection (pokemon) | 74.62 | 52.64 | -29% |
+| 30th Celebration: Mew Figure Collection (pokemon) | 74.36 | 53.43 | -28% |
+| Brilliant Stars Elite Trainer Box (pokemon) | 173.17 | 124.87 | -28% |
+| Aura Seeker Booster Box (pokemon) | 119.99 | 90.14 | -25% |
 | Pokémon Advent Countdown Calendar (pokemon) | 1249.85 | 944.18 | -24% |
-| 30th Celebration: Mew Figure Collection (pokemon) | 74.36 | 56.59 | -24% |
-| Riftbound x T1 2025 Worlds Champion Signature Edition (riftbound) | 2691.42 | 2057.25 | -24% |
-| Arcane: Immersive Music Experience Booster (riftbound) | 76.05 | 58.16 | -24% |
-| 30th Celebration: Mewtwo Figure Collection (pokemon) | 74.62 | 57.1 | -23% |
-| Pitch Black 24 Sleeved Booster Case (pokemon) | 147.27 | 114.01 | -23% |
-| Japan Post Stamp Box (pokemon) | 2402.14 | 3079.78 | +28% |
-| Phantasmal Flames Pokémon Center Elite Trainer Box (pokemon) | 98.39 | 133.86 | +36% |
+| Super Electric Breaker Booster Box (pokemon) | 67.57 | 51.43 | -24% |
+| Pitch Black Booster Box (18 Boosters) (pokemon) | 78.98 | 98.37 | +25% |
+| Brilliant Stars Pokémon Center Elite Trainer Box (pokemon) | 232.18 | 293.05 | +26% |
+| Phantasmal Flames Pokémon Center Elite Trainer Box (pokemon) | 98.39 | 128.44 | +31% |
 | Kanto Power Mini Tin 5-Pack Box (pokemon) | 153.22 | 221.92 | +45% |
-| 30th Celebration JP Starter Set: Rowlet, Litten & Popplio (pokemon) | 19.67 | 35.08 | +78% |
-| Blue Sky Stream Booster Box (pokemon) | 120.5 | 379.49 | +215% |
-| Radiance Nexus Night Promo Booster (riftbound) | 10.36 | 36.15 | +249% |
+| Battle Styles Elite Trainer Box (Single Strike) (pokemon) | 46.98 | 131.13 | +179% |
+| Blue Sky Stream Booster Box (pokemon) | 120.5 | 353.41 | +193% |
 | Arceus Poster Box (pokemon) | 766.79 | 4708.73 | +514% |
 | Diamond & Pearl Booster Box (pokemon) | 746.8 | 4835.74 | +548% |

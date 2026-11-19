@@ -59,3 +59,15 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Phantasmal Flames Booster Box (id 846746) | 295,63 € | -3,1 % | 🔴 | Ya se ha doblado; no perseguir |
 | Akali, Rogue Assassin (Vendetta, id 898141) | 312 € | -5 % | 🔴 | Jugable y con riesgo de ban |
 | Radiance Case / Display | 617,27 € / 99,29 € | +11,3 % / +10,1 % | 🟡 casi | Sin cambios (misma guía); en EE. UU. la display a 99 $ (-15 % 30d) |
+
+## Actualización 2026-11-19 (Cardmarket, EUR, trend; guía del 19-nov)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Worlds Bundle 2026 (id 922931) | 133,99 € (low 129; primer día en la guía) | +12,7 % (+26 % a ≤100 €) | 🟡 casi | Alta nueva. PVP 80 $. Envíos desde mediados de diciembre: esperar a que bajen los precios con la entrega |
+| Radiance Case (id 897516) | 590,96 € (-12 % 7d) | +12,4 % | 🟡 casi | Objetivo ≤500 € |
+| Delta Reign Booster Bundle (id 903945) | 34,40 € (-16 % 7d) | +11,8 % | 🟡 casi | Objetivo ≤29 € |
+| Delta Reign ETB (id 903955) | 67,49 € (-17 % 7d) | +10,9 % | 🟡 casi | Objetivo ≤55 € |
+| Radiance Display (id 897515) | 98,27 € | +10,6 % | 🟡 casi | Objetivo ≤82 € |
+| K/DA Couture Collection Box (id 920098) | 204,55 € (-55 % 7d) | +7,3 % (+21 % a ≤160 €) | 🟡 | Alta nueva. En EE. UU. 320 $; más unidades en Convergence Fest (11-13 dic) |
+| Worlds Bundle 2025 (id 862801) | 581,44 € | -2 % | 🔴 | Ya +450 % sobre PVP; alta como precedente |
+| Gift of the Rift Bundle (id 917164) | 218,10 € | negativo | 🔴 | PVP 109 $ (sale el 4-dic, 16 sobres): sobreprecio de preventa |

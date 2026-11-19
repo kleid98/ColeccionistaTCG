@@ -26,6 +26,9 @@
     {"juego": "pokemon", "idProduct": 903956, "nombre": "Delta Reign Booster Box", "objetivo_eur": 150},
     {"juego": "pokemon", "idProduct": 903955, "nombre": "Delta Reign Elite Trainer Box", "objetivo_eur": 55},
     {"juego": "pokemon", "idProduct": 903945, "nombre": "Delta Reign Booster Bundle", "objetivo_eur": 29},
-    {"juego": "pokemon", "idProduct": 784949, "nombre": "Surging Sparks Booster Box", "objetivo_eur": 190}
+    {"juego": "pokemon", "idProduct": 784949, "nombre": "Surging Sparks Booster Box", "objetivo_eur": 190},
+    {"juego": "riftbound", "idProduct": 922931, "nombre": "Worlds Bundle 2026", "objetivo_eur": 100},
+    {"juego": "riftbound", "idProduct": 920098, "nombre": "K/DA Couture Collection Box", "objetivo_eur": 160},
+    {"juego": "riftbound", "idProduct": 862801, "nombre": "Worlds Bundle 2025", "objetivo_eur": 450}
   ]
 }
