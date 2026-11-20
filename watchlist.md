@@ -71,3 +71,17 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | K/DA Couture Collection Box (id 920098) | 204,55 € (-55 % 7d) | +7,3 % (+21 % a ≤160 €) | 🟡 | Alta nueva. En EE. UU. 320 $; más unidades en Convergence Fest (11-13 dic) |
 | Worlds Bundle 2025 (id 862801) | 581,44 € | -2 % | 🔴 | Ya +450 % sobre PVP; alta como precedente |
 | Gift of the Rift Bundle (id 917164) | 218,10 € | negativo | 🔴 | PVP 109 $ (sale el 4-dic, 16 sobres): sobreprecio de preventa |
+
+## Actualización 2026-11-20 (Cardmarket, EUR, trend; guía del 20-nov)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Worlds Bundle 2026 (id 922931) | 131,69 € (-2 % 1d) | +13,6 % | 🟡 casi | Objetivo ≤100 €; envíos desde mediados de diciembre |
+| Radiance Case (id 897516) | 586,04 € | +12,9 % | 🟡 casi | Objetivo ≤500 € (low ya a 502) |
+| Delta Reign Booster Bundle (id 903945) | 33,63 € | +12,9 % | 🟡 casi | Objetivo ≤29 € |
+| Delta Reign ETB (id 903955) | 66,62 € | +11,6 % | 🟡 casi | Objetivo ≤55 € |
+| Radiance Display (id 897515) | 97,72 € | +10,9 % | 🟡 casi | Objetivo ≤82 € |
+| K/DA Couture Collection Box (id 920098) | 193,46 € (-5 % 1d) | +10,3 % | 🟡 casi | Vuelve a "casi" al bajar; objetivo ≤160 € |
+| T1 Worlds 2025 Champion Player Bundle (id 923937) | 249,99 € (primer día) | -5,6 % | 🔴 | Alta nueva. PVP 70 $, sorteo; esperar a la entrega (objetivo ≤120 €) |
+| Nihil Zero JP Booster Box (id 864283) | 54,94 € | -2,1 % | 🔴 | Alta nueva. Ya en el techo típico del JP moderno (49-82 €) |
+| Inferno X JP Booster Box (id 845910) | 71,10 € | -7,6 % | 🔴 | Alta nueva. Reimpresión por lotería con envíos 10-25 dic |
+| Origins Case (id 848377) | 1.117,55 € | -4,2 % | 🔴 | En EE. UU. -8,6 % 30d; Riot sigue reimprimiendo |

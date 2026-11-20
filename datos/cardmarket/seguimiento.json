@@ -29,6 +29,9 @@
     {"juego": "pokemon", "idProduct": 784949, "nombre": "Surging Sparks Booster Box", "objetivo_eur": 190},
     {"juego": "riftbound", "idProduct": 922931, "nombre": "Worlds Bundle 2026", "objetivo_eur": 100},
     {"juego": "riftbound", "idProduct": 920098, "nombre": "K/DA Couture Collection Box", "objetivo_eur": 160},
-    {"juego": "riftbound", "idProduct": 862801, "nombre": "Worlds Bundle 2025", "objetivo_eur": 450}
+    {"juego": "riftbound", "idProduct": 862801, "nombre": "Worlds Bundle 2025", "objetivo_eur": 450},
+    {"juego": "riftbound", "idProduct": 923937, "nombre": "Riftbound x T1 Worlds 2025 Champion Player Bundle", "objetivo_eur": 120},
+    {"juego": "pokemon", "idProduct": 864283, "nombre": "Nihil Zero JP Booster Box", "objetivo_eur": 45},
+    {"juego": "pokemon", "idProduct": 845910, "nombre": "Inferno X JP Booster Box", "objetivo_eur": 50}
   ]
 }
