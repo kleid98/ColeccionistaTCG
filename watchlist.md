@@ -85,3 +85,16 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Nihil Zero JP Booster Box (id 864283) | 54,94 € | -2,1 % | 🔴 | Alta nueva. Ya en el techo típico del JP moderno (49-82 €) |
 | Inferno X JP Booster Box (id 845910) | 71,10 € | -7,6 % | 🔴 | Alta nueva. Reimpresión por lotería con envíos 10-25 dic |
 | Origins Case (id 848377) | 1.117,55 € | -4,2 % | 🔴 | En EE. UU. -8,6 % 30d; Riot sigue reimprimiendo |
+
+## Actualización 2026-11-21 (Cardmarket, EUR, trend; guía del 20-nov: no se regeneró)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Worlds Bundle 2026 (id 922931) | 131,69 € | +13,6 % | 🟡 casi | Sin cambios (misma guía). Objetivo ≤100 € tras la entrega |
+| Radiance Case (id 897516) | 586,04 € | +12,9 % | 🟡 casi | En EE. UU. 543 $ (-20 % 30d). Objetivo ≤500 € |
+| Delta Reign Booster Bundle (id 903945) | 33,63 € | +12,9 % | 🟡 casi | Objetivo ≤29 € |
+| Delta Reign ETB (id 903955) | 66,62 € | +11,6 % | 🟡 casi | Objetivo ≤55 € |
+| Radiance Display (id 897515) | 97,72 € | +10,9 % | 🟡 casi | En EE. UU. 98,15 $ (-13 % 30d). Objetivo ≤82 € |
+| K/DA Couture Collection Box (id 920098) | 193,46 € | +10,3 % | 🟡 casi | En EE. UU. 284 $ (-9 % 7d). Objetivo ≤160 € |
+| Radiance Vault (id 897518) | 30,61 € | +4,2 % | 🔴 | Alta nueva. Solo Unleashed se ha revalorizado entre los Vault; objetivo ≤25 € |
+| Unleashed Vault (id 877300) | 68,71 € | -7,4 % | 🔴 | Alta nueva como precedente (≈+70 % sobre PVP en 6,5 meses) |
+| MEGA Dream ex JP Booster Box (id 858380) | 79,07 € | -2,6 % | 🔴 | Alta nueva. High-class JP; objetivo ≤60 € |

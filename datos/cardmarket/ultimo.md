@@ -35,6 +35,12 @@ Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el p
 | Worlds Bundle 2026 (riftbound) | 129 | 131.69 | 100 | -2% |  |  | 🔴 |
 | K/DA Couture Collection Box (riftbound) | 200.01 | 193.46 | 160 | -5% |  |  | 🔴 |
 | Worlds Bundle 2025 (riftbound) | 320 | 581.44 | 450 | +0% |  |  | 🔴 |
+| Riftbound x T1 Worlds 2025 Champion Player Bundle (riftbound) | 249.99 | 249.99 | 120 |  |  |  | 🔴 |
+| Nihil Zero JP Booster Box (pokemon) | 36.95 | 54.94 | 45 | -2% |  |  | 🔴 |
+| Inferno X JP Booster Box (pokemon) | 51.49 | 71.1 | 50 | +1% |  |  | 🔴 |
+| Radiance Vault (riftbound) | 27.5 | 30.61 | 25 | -1% |  |  | 🔴 |
+| Unleashed Vault (riftbound) | 69.99 | 68.71 | 45 | -1% |  |  | 🔴 |
+| MEGA Dream ex JP Booster Box (pokemon) | 69.5 | 79.07 | 60 | +0% |  |  | 🔴 |
 
 ## Riftbound: las 40 singles de más valor
 

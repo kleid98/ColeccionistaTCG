@@ -32,6 +32,9 @@
     {"juego": "riftbound", "idProduct": 862801, "nombre": "Worlds Bundle 2025", "objetivo_eur": 450},
     {"juego": "riftbound", "idProduct": 923937, "nombre": "Riftbound x T1 Worlds 2025 Champion Player Bundle", "objetivo_eur": 120},
     {"juego": "pokemon", "idProduct": 864283, "nombre": "Nihil Zero JP Booster Box", "objetivo_eur": 45},
-    {"juego": "pokemon", "idProduct": 845910, "nombre": "Inferno X JP Booster Box", "objetivo_eur": 50}
+    {"juego": "pokemon", "idProduct": 845910, "nombre": "Inferno X JP Booster Box", "objetivo_eur": 50},
+    {"juego": "riftbound", "idProduct": 897518, "nombre": "Radiance Vault", "objetivo_eur": 25},
+    {"juego": "riftbound", "idProduct": 877300, "nombre": "Unleashed Vault", "objetivo_eur": 45},
+    {"juego": "pokemon", "idProduct": 858380, "nombre": "MEGA Dream ex JP Booster Box", "objetivo_eur": 60}
   ]
 }
