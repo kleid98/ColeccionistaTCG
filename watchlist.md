@@ -98,3 +98,16 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Radiance Vault (id 897518) | 30,61 € | +4,2 % | 🔴 | Alta nueva. Solo Unleashed se ha revalorizado entre los Vault; objetivo ≤25 € |
 | Unleashed Vault (id 877300) | 68,71 € | -7,4 % | 🔴 | Alta nueva como precedente (≈+70 % sobre PVP en 6,5 meses) |
 | MEGA Dream ex JP Booster Box (id 858380) | 79,07 € | -2,6 % | 🔴 | Alta nueva. High-class JP; objetivo ≤60 € |
+
+## Actualización 2026-11-22 (Cardmarket, EUR, trend; guía del 22-nov, regenerada)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| K/DA Couture Collection Box (id 920098) | 172,30 € (-11 % 1d, -27 % 7d); **low 200,01** | +16,8 % a trend / +8,8 % al low | 🟡 casi | El low lleva quieto en ~200 € desde el 17-nov: hoy no se puede comprar a trend. Objetivo ≤160 € de oferta real |
+| Radiance Case (id 897516) | 586,04 € (low 502) | +12,9 % | 🟡 casi | Objetivo ≤500 €; en EE. UU. 542,79 $ (-19 % 30d) |
+| Delta Reign ETB (id 903955) | 65,31 € (-5 % 7d) | +12,7 % | 🟡 casi | Objetivo ≤55 € |
+| Delta Reign Booster Bundle (id 903945) | 33,78 € | +12,7 % | 🟡 casi | Objetivo ≤29 € |
+| Radiance Display (id 897515) | 96,14 € (-3 % 7d) | +12,3 % | 🟡 casi | Objetivo ≤82 €; en EE. UU. 97,73 $ |
+| Worlds Bundle 2026 (id 922931) | 137,09 € (+4 % 1d) | +11,5 % | 🟡 casi | Objetivo ≤100 € tras la entrega (desde mediados de diciembre) |
+| Legacy Vault (id 917596) | 39,33 € (low 33,99) | -6,3 % | 🔴 | Alta nueva. ≈PVP (34,99 $); en EE. UU. la preventa va a 89,57 $, que no es una referencia. Objetivo ≤30 € |
+| Vayne, Hunter Overnumbered (Spiritforged, id 866970) | 148,99 € (avg7 104,5) | -10 % (comprar y gradear) | 🔴 | Gradear con PSA Frankfurt (50 €) para revender no compensa |
+| Temporal Forces Booster Box (id 750403) | 234,99 € | +5,7 % | 🔴 | Fuera de impresión; para mantener |
