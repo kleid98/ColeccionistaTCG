@@ -36,6 +36,9 @@
     {"juego": "riftbound", "idProduct": 897518, "nombre": "Radiance Vault", "objetivo_eur": 25},
     {"juego": "riftbound", "idProduct": 877300, "nombre": "Unleashed Vault", "objetivo_eur": 45},
     {"juego": "pokemon", "idProduct": 858380, "nombre": "MEGA Dream ex JP Booster Box", "objetivo_eur": 60},
-    {"juego": "riftbound", "idProduct": 917596, "nombre": "Legacy Vault", "objetivo_eur": 30}
+    {"juego": "riftbound", "idProduct": 917596, "nombre": "Legacy Vault", "objetivo_eur": 30},
+    {"juego": "riftbound", "idProduct": 860998, "nombre": "Spiritforged Case (6x Booster Box)", "objetivo_eur": 575},
+    {"juego": "riftbound", "idProduct": 879290, "nombre": "Unleashed Case (6x Booster Box)", "objetivo_eur": 575},
+    {"juego": "riftbound", "idProduct": 848377, "nombre": "Origins Case (6x Booster Box)", "objetivo_eur": 850}
   ]
 }

@@ -111,3 +111,17 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Legacy Vault (id 917596) | 39,33 € (low 33,99) | -6,3 % | 🔴 | Alta nueva. ≈PVP (34,99 $); en EE. UU. la preventa va a 89,57 $, que no es una referencia. Objetivo ≤30 € |
 | Vayne, Hunter Overnumbered (Spiritforged, id 866970) | 148,99 € (avg7 104,5) | -10 % (comprar y gradear) | 🔴 | Gradear con PSA Frankfurt (50 €) para revender no compensa |
 | Temporal Forces Booster Box (id 750403) | 234,99 € | +5,7 % | 🔴 | Fuera de impresión; para mantener |
+
+## Actualización 2026-11-23 (Cardmarket, EUR, trend; guía del 23-nov, regenerada)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Radiance Case (id 897516) | 571,16 € (-7 % 7d); low 585 | +14,3 % a trend / +13,0 % al low | 🟡 casi | El low está por encima del trend. Objetivo ≤500 € |
+| Delta Reign ETB (id 903955) | 64,26 € (-6 % 7d) | +13,5 % | 🟡 casi | Objetivo ≤55 € |
+| Radiance Display (id 897515) | 95,13 € (-4 % 7d) | +12,9 % | 🟡 casi | Objetivo ≤82 €; en EE. UU. 99,09 $ |
+| Delta Reign Booster Bundle (id 903945) | 32,84 € (-6 % 7d) | +12,2 % | 🟡 casi | Objetivo ≤29 € |
+| K/DA Couture Collection Box (id 920098) | 161,39 € (-32 % 7d); **low 189,99** | +20,5 % a trend (no se puede comprar a ese precio) / +11,5 % al low | 🟡 casi | El low baja de 200 a 190 €. Objetivo: oferta real ≤160 € |
+| Worlds Bundle 2026 (id 922931) | 137,64 € | +10,9 % | 🟡 casi | Objetivo ≤100 € tras la entrega |
+| Spiritforged Case (id 860998) | 727,40 € (121 € por display; low 599) | +7,2 % (+17,9 % si una oferta fiable estuviera al low) | 🟡 | Alta nueva. Objetivo ≤575 € de oferta fiable |
+| Unleashed Case (id 879290) | 773,78 € (129 € por display; low 543) | +3,9 % (+20 % a ≤575 €) | 🟡 | Alta nueva. El low queda un 30 % por debajo del trend: sospechoso. Objetivo ≤575 € de un vendedor fiable |
+| Origins Case (id 848377) | 1.117,55 € | negativo | 🔴 | Alta en el seguimiento. En EE. UU. 913,77 $ (-27 % 7d) por la reimpresión; objetivo ≤850 € |
+| Overnumbered de Origins (847500, 847504, 847516, 847520) | 375-1.100 € | — | 🔴 | No cuadran con PriceCharting y no se sabe si son la normal o la Signature: no tocar |
