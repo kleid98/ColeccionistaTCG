@@ -125,3 +125,15 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Unleashed Case (id 879290) | 773,78 € (129 € por display; low 543) | +3,9 % (+20 % a ≤575 €) | 🟡 | Alta nueva. El low queda un 30 % por debajo del trend: sospechoso. Objetivo ≤575 € de un vendedor fiable |
 | Origins Case (id 848377) | 1.117,55 € | negativo | 🔴 | Alta en el seguimiento. En EE. UU. 913,77 $ (-27 % 7d) por la reimpresión; objetivo ≤850 € |
 | Overnumbered de Origins (847500, 847504, 847516, 847520) | 375-1.100 € | — | 🔴 | No cuadran con PriceCharting y no se sabe si son la normal o la Signature: no tocar |
+
+## Actualización 2026-11-24 (Cardmarket, EUR, trend; guía del 24-nov, regenerada)
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Radiance Case (id 897516) | 571,16 € (-7 % 7d); low 585 | +14,3 % a trend / +13,0 % al low | 🟡 casi | Sin cambios a 1d. Objetivo ≤500 €; en EE. UU. 540,38 $ (-1,5 % 7d): se frena |
+| Delta Reign ETB (id 903955) | 63,38 € (-7 % 7d) | +14,2 % | 🟡 casi | Objetivo ≤55 € |
+| Delta Reign Booster Bundle (id 903945) | 31,77 € (-9 % 7d) | +13,9 % | 🟡 casi | A un 10 % del objetivo (≤29 €) |
+| Radiance Display (id 897515) | 93,80 € (-6 % 7d; low 80) | +13,7 % | 🟡 casi | Objetivo ≤82 €; en EE. UU. 98,44 $ (-0,1 % 7d) |
+| K/DA Couture Collection Box (id 920098) | 154,14 € (-35 % 7d); **low 189,99** | +23 % a trend (no comprable) / +11,5 % al low | 🟡 casi | El low no se mueve de 190 €. Objetivo: oferta real ≤160 € |
+| Worlds Bundle 2026 (id 922931) | 138,71 € | +10,5 % | 🟡 casi | Objetivo ≤100 € tras la entrega |
+| Spiritforged Case (id 860998) | 699,78 € (-4 % 1d; 116,6 € por display) | +9,2 % (+17,9 % al low de 599) | 🟡 | Objetivo ≤575 € de oferta fiable |
+| Champion Decks de Riftbound | 13-30 € | negativo | 🔴 | Los precons no se revalorizan (ver aprendizajes del 24-nov) |
