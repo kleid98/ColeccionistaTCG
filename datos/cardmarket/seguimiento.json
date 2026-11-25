@@ -3,11 +3,11 @@
   "productos": [
     {"juego": "riftbound", "idProduct": 897515, "nombre": "Radiance Booster Box", "objetivo_eur": 82},
     {"juego": "riftbound", "idProduct": 897516, "nombre": "Radiance Case (6x Booster Box)", "objetivo_eur": 500},
-    {"juego": "riftbound", "idProduct": 888358, "nombre": "Vendetta Booster Box", "objetivo_eur": 130},
-    {"juego": "riftbound", "idProduct": 888359, "nombre": "Vendetta Case (6x Booster Box)", "objetivo_eur": 780},
-    {"juego": "riftbound", "idProduct": 872923, "nombre": "Unleashed Booster Box", "objetivo_eur": 135},
-    {"juego": "riftbound", "idProduct": 860997, "nombre": "Spiritforged Booster Box", "objetivo_eur": 140},
-    {"juego": "riftbound", "idProduct": 845721, "nombre": "Origins Booster Box", "objetivo_eur": 190},
+    {"juego": "riftbound", "idProduct": 888358, "nombre": "Vendetta Booster Box", "objetivo_eur": 85},
+    {"juego": "riftbound", "idProduct": 888359, "nombre": "Vendetta Case (6x Booster Box)", "objetivo_eur": 520},
+    {"juego": "riftbound", "idProduct": 872923, "nombre": "Unleashed Booster Box", "objetivo_eur": 93},
+    {"juego": "riftbound", "idProduct": 860997, "nombre": "Spiritforged Booster Box", "objetivo_eur": 94},
+    {"juego": "riftbound", "idProduct": 845721, "nombre": "Origins Booster Box", "objetivo_eur": 114},
     {"juego": "riftbound", "idProduct": 917595, "nombre": "Legacy Booster Box", "objetivo_eur": 128},
     {"juego": "pokemon", "idProduct": 865408, "nombre": "Perfect Order Booster Box", "objetivo_eur": 150},
     {"juego": "pokemon", "idProduct": 877295, "nombre": "Chaos Rising Booster Box", "objetivo_eur": 165},
@@ -39,6 +39,7 @@
     {"juego": "riftbound", "idProduct": 917596, "nombre": "Legacy Vault", "objetivo_eur": 30},
     {"juego": "riftbound", "idProduct": 860998, "nombre": "Spiritforged Case (6x Booster Box)", "objetivo_eur": 575},
     {"juego": "riftbound", "idProduct": 879290, "nombre": "Unleashed Case (6x Booster Box)", "objetivo_eur": 575},
-    {"juego": "riftbound", "idProduct": 848377, "nombre": "Origins Case (6x Booster Box)", "objetivo_eur": 850}
+    {"juego": "riftbound", "idProduct": 848377, "nombre": "Origins Case (6x Booster Box)", "objetivo_eur": 850},
+    {"juego": "riftbound", "idProduct": 904026, "nombre": "Riftbound x T1 2025 Worlds Champion Signature Edition", "objetivo_eur": 920}
   ]
 }

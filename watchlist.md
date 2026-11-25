@@ -137,3 +137,17 @@ Estado: 🟢 comprar ya · 🟡 vigilar · 🔴 esperar o evitar
 | Worlds Bundle 2026 (id 922931) | 138,71 € | +10,5 % | 🟡 casi | Objetivo ≤100 € tras la entrega |
 | Spiritforged Case (id 860998) | 699,78 € (-4 % 1d; 116,6 € por display) | +9,2 % (+17,9 % al low de 599) | 🟡 | Objetivo ≤575 € de oferta fiable |
 | Champion Decks de Riftbound | 13-30 € | negativo | 🔴 | Los precons no se revalorizan (ver aprendizajes del 24-nov) |
+
+## Actualización 2026-11-25 (Cardmarket, EUR, trend; guía del 25-nov, regenerada)
+Objetivos del seguimiento recalculados: ahora son el precio al que el EV llega al +20 %/año (ver aprendizajes del 25-nov).
+
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Radiance Case (id 897516) | 561,25 € (-2 % 1d, -9 % 7d); low 560 | +15,3 % | 🟡 casi | El low ya baja con el trend. Objetivo ≤500 €; en EE. UU. 539 $ (-1,4 % 7d) |
+| Delta Reign ETB (id 903955) | 62,38 € (-9 % 7d) | +15,1 % | 🟡 casi | Objetivo ≤55 € |
+| K/DA Couture Collection Box (id 920098) | 149,36 €; **low 180** | +14,4 % al low | 🟡 casi | El low baja de 190 a 180 €. Objetivo: oferta real ≤160 € |
+| Delta Reign Booster Bundle (id 903945) | 31,61 € | +14,2 % | 🟡 casi | Objetivo ≤29 € |
+| Radiance Display (id 897515) | 93,12 € (low 85) | +14,1 % | 🟡 casi | Objetivo ≤82 € |
+| Vendetta Case (id 888359) | 705,54 € (-5 % 1d, -10 % 7d); low 600 | +3,7 % (+12,2 % al low) | 🟡 | Objetivo corregido de 780 a 520 € |
+| Worlds Bundle 2026 (id 922931) | 137,70 € | +10,9 % | 🟡 casi | Objetivo ≤100 € tras la entrega |
+| T1 Signature Edition (id 904026) | 1.225,58 € (-40 % 7d); low 1.050 | +4,2 % | 🔴 | Alta nueva. Tirada de 10.125 copias en inglés; esperar a que se estabilice. Objetivo ≤920 € |
