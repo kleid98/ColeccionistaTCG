@@ -151,3 +151,19 @@ Objetivos del seguimiento recalculados: ahora son el precio al que el EV llega a
 | Vendetta Case (id 888359) | 705,54 € (-5 % 1d, -10 % 7d); low 600 | +3,7 % (+12,2 % al low) | 🟡 | Objetivo corregido de 780 a 520 € |
 | Worlds Bundle 2026 (id 922931) | 137,70 € | +10,9 % | 🟡 casi | Objetivo ≤100 € tras la entrega |
 | T1 Signature Edition (id 904026) | 1.225,58 € (-40 % 7d); low 1.050 | +4,2 % | 🔴 | Alta nueva. Tirada de 10.125 copias en inglés; esperar a que se estabilice. Objetivo ≤920 € |
+
+## Actualización 2026-11-26 (Cardmarket, EUR, trend; guía del 25-nov: no se regeneró)
+Precios de Cardmarket iguales a los de ayer. Altas en el seguimiento: Aura Seeker JP display (id 918805, objetivo 45 €) y Flowing Fists Booster Bundle (id 924646, objetivo 28 €).
+
+| Producto | Trend | EV anual | Estado | Nota |
+|---|---|---|---|---|
+| Radiance Case (id 897516) | 561,25 €; low 560 | +15,3 % | 🟡 casi | En EE. UU. 537,74 $ (-1,3 % 7d). EV de apertura ≈0,65-0,9: sin suelo. Objetivo ≤500 € |
+| Delta Reign ETB (id 903955) | 62,38 € | +15,1 % | 🟡 casi | Objetivo ≤55 € |
+| K/DA Couture Collection Box (id 920098) | 149,36 €; low 180 | +14,4 % al low | 🟡 casi | En EE. UU. 261 $ (-6 % 7d). Objetivo: oferta real ≤160 € |
+| Delta Reign Booster Bundle (id 903945) | 31,61 € | +14,2 % | 🟡 casi | Objetivo ≤29 € |
+| Radiance Display (id 897515) | 93,12 € | +14,1 % | 🟡 casi | En EE. UU. 97,98 $. Objetivo ≤82 € |
+| Vendetta Case (id 888359) | 705,54 €; low 600 | +3,7 % (+12,2 % al low) | 🟡 | Objetivo ≤520 € |
+| Worlds Bundle 2026 (id 922931) | 137,70 € | +10,9 % | 🟡 casi | Objetivo ≤100 € tras la entrega |
+| Origins Display (id 845721) | 169,44 € | -0,7 % | 🔴 | En EE. UU. ya a 161,55 $ (-6,9 % 7d; case -12,8 % 7d): la reimpresión sigue bajándolo |
+| Aura Seeker JP Booster Box (id 918805) | 87,39 € (preventa) | -12 % | 🔴 | Por encima del techo JP normal (49-82 €) |
+| Vayne, Hunter Overnumbered (id 866970) | 149 € | -4 % | 🔴 | Gradear no compensa (ver 22-nov) |

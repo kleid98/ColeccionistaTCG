@@ -46,6 +46,8 @@ Fuente: guía de precios pública y oficial de Cardmarket (EUR). `trend` es el p
 | Unleashed Case (6x Booster Box) (riftbound) | 543 | 773.78 | 575 | +0% | -0% |  | 🔴 |
 | Origins Case (6x Booster Box) (riftbound) | 750 | 1102.2 | 850 | -1% | +0% |  | 🔴 |
 | Riftbound x T1 2025 Worlds Champion Signature Edition (riftbound) | 1050 | 1225.58 | 920 | -19% | -40% |  | 🔴 |
+| Aura Seeker JP Booster Box (pokemon) | 86.99 | 87.39 | 45 | +1% | -8% |  | 🔴 |
+| Flowing Fists Booster Bundle (pokemon) | 41.99 | - | 28 |  |  |  | 🔴 |
 
 ## Riftbound: las 40 singles de más valor
 

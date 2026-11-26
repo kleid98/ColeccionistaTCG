@@ -40,6 +40,8 @@
     {"juego": "riftbound", "idProduct": 860998, "nombre": "Spiritforged Case (6x Booster Box)", "objetivo_eur": 575},
     {"juego": "riftbound", "idProduct": 879290, "nombre": "Unleashed Case (6x Booster Box)", "objetivo_eur": 575},
     {"juego": "riftbound", "idProduct": 848377, "nombre": "Origins Case (6x Booster Box)", "objetivo_eur": 850},
-    {"juego": "riftbound", "idProduct": 904026, "nombre": "Riftbound x T1 2025 Worlds Champion Signature Edition", "objetivo_eur": 920}
+    {"juego": "riftbound", "idProduct": 904026, "nombre": "Riftbound x T1 2025 Worlds Champion Signature Edition", "objetivo_eur": 920},
+    {"juego": "pokemon", "idProduct": 918805, "nombre": "Aura Seeker JP Booster Box", "objetivo_eur": 45},
+    {"juego": "pokemon", "idProduct": 924646, "nombre": "Flowing Fists Booster Bundle", "objetivo_eur": 28}
   ]
 }
