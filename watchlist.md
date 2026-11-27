@@ -167,3 +167,15 @@ Precios de Cardmarket iguales a los de ayer. Altas en el seguimiento: Aura Seeke
 | Origins Display (id 845721) | 169,44 € | -0,7 % | 🔴 | En EE. UU. ya a 161,55 $ (-6,9 % 7d; case -12,8 % 7d): la reimpresión sigue bajándolo |
 | Aura Seeker JP Booster Box (id 918805) | 87,39 € (preventa) | -12 % | 🔴 | Por encima del techo JP normal (49-82 €) |
 | Vayne, Hunter Overnumbered (id 866970) | 149 € | -4 % | 🔴 | Gradear no compensa (ver 22-nov) |
+
+## Actualización 2026-11-27 (Cardmarket, guía del 26-nov, EUR, trend)
+| Producto | Entrada (C) | EV anual | Estado | Objetivo para +20 %/año |
+|---|---|---|---|---|
+| Radiance Case (897516) | 568 € (94,7 €/display) | +16,1 % | 🟡 casi | ≤500 € |
+| Delta Reign ETB (903955) | 67,2 € | +15,3 % | 🟡 casi | ≤55 € |
+| Radiance Display (897515) | 96,7 € | +14,9 % | 🟡 casi | ≤82 € |
+| Delta Reign Booster Bundle (903945) | 35,4 € | +14,6 % | 🟡 casi | ≤29 € |
+| K/DA Couture (920098) | 189 € (low 179,98 > trend 139) | +14,4 % | 🟡 casi | ≤160 € real |
+| Worlds Bundle 2026 (922931) | 148 € | +10,3 % | 🟡 casi | ≤100 € tras la entrega |
+| Vendetta Case (888359) | 711 € trend / 613 € low | +4,3 % / +12,4 % | 🔴 | ≤520 € |
+| T1 Signature Edition (904026) | 1.551 € (+25 % 1d) | -6,8 % | 🔴 | ≤920 € tras 2-3 semanas planas |
