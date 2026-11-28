@@ -179,3 +179,18 @@ Precios de Cardmarket iguales a los de ayer. Altas en el seguimiento: Aura Seeke
 | Worlds Bundle 2026 (922931) | 148 € | +10,3 % | 🟡 casi | ≤100 € tras la entrega |
 | Vendetta Case (888359) | 711 € trend / 613 € low | +4,3 % / +12,4 % | 🔴 | ≤520 € |
 | T1 Signature Edition (904026) | 1.551 € (+25 % 1d) | -6,8 % | 🔴 | ≤920 € tras 2-3 semanas planas |
+
+## Actualización 2026-11-28 (Cardmarket, guía del 27-nov, EUR, trend)
+Objetivos corregidos: Temporal Forces de 250 a 184 € y 30th Celebration JP de 110 a 58 € (su 🟢 no pasaba el listón).
+
+| Producto | Entrada (C) | EV anual | Estado | Objetivo para +20 %/año |
+|---|---|---|---|---|
+| Radiance Case (897516) | 566,8 € (94,5 €/display) | +16,2 % | 🟡 casi | ≤500 € |
+| Delta Reign ETB (903955) | 66,7 € | +15,7 % | 🟡 casi | ≤55 € |
+| Radiance Display (897515) | 96,2 € | +15,2 % | 🟡 casi | ≤82 € |
+| Delta Reign Booster Bundle (903945) | 35,3 € | +14,7 % | 🟡 casi | ≤29 € (Amazon UK a 23,94 £ en Black Friday: fuera de la UE, no compensa) |
+| K/DA Couture (920098) | 189 € (low 179,98 > trend 134,52) | +14,4 % | 🟡 casi | ≤160 € real (el 🟢 del seguimiento es por el trend, no hay oferta real) |
+| Worlds Bundle 2026 (922931) | 145,8 € | +11,2 % | 🟡 casi | ≤100 € tras la entrega |
+| Vendetta Case (888359) | 711 € trend / 613 € low | +4,3 % / +12,4 % | 🔴 | ≤520 € |
+| Temporal Forces Box (750403) | 242,7 € | +5,9 % | 🔴 | ≤184 € |
+| 30th Celebration JP Box (891464) | 113,2 € | -10 % | 🔴 | ≤58 € |
